@@ -20,7 +20,7 @@ A modern, real-time chat application built with **Node.js**, **Socket.io**, and 
 
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express.js, Socket.io
-- **Database:** (if used) MongoDB / Firebase / LocalStorage
+- **Database:**  MongoDB / Firebase / LocalStorage
 - **Tools:** VS Code, Postman, Git
 
 ---
